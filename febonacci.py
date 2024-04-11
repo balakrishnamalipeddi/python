@@ -6,3 +6,4 @@ def fibonacci(a,b):
         b=c
         d.append(c)
     print(d)
+fibonacci(0,1)
